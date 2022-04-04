@@ -1,0 +1,1 @@
+# 01FE19BEC214_Verilog_Codes_And_Assignments.
